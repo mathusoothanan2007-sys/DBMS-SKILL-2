@@ -66,6 +66,4 @@ To understand and implement database management concepts using a product-categor
 
 **Mathusoothanan**
 
----
 
-⭐ This project was created as part of DBMS Skill 2 practice.
